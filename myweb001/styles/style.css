@@ -1,0 +1,39 @@
+html {
+  font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
+  background-color: #D1DFE8;
+  
+}
+body {
+    width: 500px;
+    margin: 2 auto;
+    background-color: #EDE1E3;
+    padding: 0 20px 30px 20px; /*上左下右*/
+    border: 3px solid #909FA6; /*邊界*/
+}
+h1 {
+    font-size: 60px;
+    text-align:center;
+    margin: 0;
+    padding: 20px 0;
+    color: #909FA6;
+    text-shadow: 3px 3px 1px gainsboro;
+
+  }
+  
+  p {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-align: center;
+  }
+  
+  img {
+    /*置中*/
+    display: block;
+    margin: 0 auto; 
+  }
+
+  button {
+    display: block;
+    margin: 0 auto;
+  }
